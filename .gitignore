@@ -1,0 +1,6 @@
+target/
+.idea/
+.metals/
+.bloop/
+project/metals.sbt
+lowered.hnir
